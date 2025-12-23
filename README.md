@@ -17,5 +17,5 @@ This project analyzes retail sales data to identify revenue trends, regional per
 Dashboard walkthrough video:
 https://drive.google.com/file/d/1Bq3H6ovvxLr-EEhlOtkKVqmiUnmkbt7e/view?usp=sharing
 
-powebi dashboard
+Power BI Dashboard
 https://drive.google.com/file/d/1n_-cr3Umghg9XgWDZWuVZoYVKgPCOGfO/view?usp=sharing
